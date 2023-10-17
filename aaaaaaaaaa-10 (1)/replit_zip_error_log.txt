@@ -1,0 +1,11 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/acorn","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/color-support","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/handlebars","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node-gyp-build","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node-gyp-build-optional","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/node-gyp-build-test","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/parser","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/req","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/resolve","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/uglifyjs","time":"2023-10-17T02:37:23Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/send/node_modules/.bin/mime","time":"2023-10-17T02:37:25Z"}

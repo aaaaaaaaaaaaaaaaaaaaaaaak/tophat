@@ -1,0 +1,3 @@
+
+set HB_API_KEY=sk_test_Xb4ehw_VIs5bXxzSNG0OpneOHJ_dYzcJJl5TVwSkODQ
+npm start
